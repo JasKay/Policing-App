@@ -3,7 +3,7 @@
 
 **** 
 TO DO:
-- [] Brainstorm on ideas of the app. What can this app do for students that Morgan State has nott already done? 
+- [] Brainstorm on ideas of the app. What can this app do for students that Morgan State has not already done? 
 ## DUE February 13, 2020.
 
 ## Problem
