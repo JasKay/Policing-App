@@ -1,4 +1,4 @@
-# Morgan State University's Saftery App
+# Morgan State University's Safety App
 
 
 **** 
